@@ -1,0 +1,3 @@
+[submodule "themes/researchproject"]
+	path = themes/researchproject
+	url = https://github.com/KonradHoeffner/zola-theme-researchproject.git

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 130" role="img" aria-label="LENA research project">
+  <g fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round">
+    <line x1="62" y1="62" x2="32" y2="92"/>
+    <line x1="62" y1="62" x2="92" y2="92"/>
+    <line x1="62" y1="62" x2="62" y2="102"/>
+    <line x1="62" y1="62" x2="36" y2="38"/>
+    <line x1="62" y1="62" x2="88" y2="38"/>
+    <line x1="36" y1="38" x2="88" y2="38"/>
+  </g>
+  <g fill="#ffffff">
+    <circle cx="62" cy="62" r="13"/>
+    <circle cx="32" cy="92" r="8"/>
+    <circle cx="92" cy="92" r="8"/>
+    <circle cx="62" cy="102" r="8"/>
+    <circle cx="36" cy="38" r="8"/>
+    <circle cx="88" cy="38" r="8"/>
+  </g>
+  <text x="120" y="62" fill="#ffffff" font-family="'PT Sans', Helvetica, Arial, sans-serif" font-size="34" font-weight="bold" letter-spacing="4">LENA</text>
+  <text x="122" y="89" fill="#ffffff" font-family="'PT Sans', Helvetica, Arial, sans-serif" font-size="16" letter-spacing="2">RESEARCH PROJECT</text>
+</svg>

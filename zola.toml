@@ -1,0 +1,13 @@
+base_url = "https://lenaproject.github.io/lena"
+title = "LENA"
+description = "Website of the LENA research project."
+default_language = "en"
+theme = "researchproject"
+
+[extra]
+tagline = "Research project"
+theme_color = "#2f6f6b"
+logo = "logo.svg"
+favicon = "logo.svg"
+fonts = false
+github = "https://github.com/lenaproject/lena"
