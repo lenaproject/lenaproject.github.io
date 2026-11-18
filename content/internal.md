@@ -1,5 +1,7 @@
 +++
 title = "Intern"
+path = "intern"
+aliases = ["/internal/"]
 weight = 35
 hidden = true
 description = "Interne Notizen, aus der Navigation ausgeblendet."

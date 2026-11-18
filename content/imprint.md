@@ -1,5 +1,7 @@
 +++
 title = "Impressum"
+path = "impressum"
+aliases = ["/imprint/"]
 weight = 99
 description = "Rechtliches Impressum und Datenschutzhinweise."
 +++

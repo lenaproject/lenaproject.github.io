@@ -1,5 +1,7 @@
 +++
 title = "Projekt"
+path = "projekt"
+aliases = ["/project/"]
 weight = 10
 description = "Überblick über das geplante LENA-Projekt."
 +++

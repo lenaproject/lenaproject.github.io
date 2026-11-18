@@ -1,5 +1,7 @@
 +++
 title = "Arbeitspakete"
+path = "arbeitspakete"
+aliases = ["/workpackages/"]
 weight = 20
 description = "Geplantes Arbeitsprogramm von LENA."
 +++

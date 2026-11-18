@@ -1,5 +1,7 @@
 +++
 title = "Kontakt"
+path = "kontakt"
+aliases = ["/contact/"]
 weight = 80
 description = "Kontaktdaten und Projektpartner von LENA."
 +++

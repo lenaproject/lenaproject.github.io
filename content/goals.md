@@ -1,5 +1,7 @@
 +++
 title = "Ziele"
+path = "ziele"
+aliases = ["/goals/"]
 weight = 15
 description = "Geplante Ziele und Forschungsfragen von LENA."
 +++

@@ -1,5 +1,7 @@
 +++
 title = "Ergebnisse"
+path = "ergebnisse"
+aliases = ["/results/"]
 weight = 30
 description = "Publikationen, Software, Datensätze und weitere Projektergebnisse."
 +++

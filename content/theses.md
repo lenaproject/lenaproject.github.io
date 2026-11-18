@@ -1,5 +1,7 @@
 +++
 title = "Abschlussarbeiten"
+path = "abschlussarbeiten"
+aliases = ["/theses/"]
 weight = 33
 description = "Abschlussarbeiten mit Bezug zum LENA-Projekt."
 +++
