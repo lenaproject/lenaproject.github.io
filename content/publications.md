@@ -1,9 +1,8 @@
 +++
-title = "Publications"
+title = "Publikationen"
 weight = 31
 template = "publications.html"
-description = "Publications from the LENA project."
+description = "Publikationen aus dem LENA-Projekt."
 +++
 
-LENA has not started yet, so there are no publications to list. Publications
-will be added here as they appear.
+Publikationen aus dem Projekt werden hier ergänzt, sobald sie erscheinen.

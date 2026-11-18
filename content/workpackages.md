@@ -1,20 +1,20 @@
 +++
-title = "Work packages"
+title = "Arbeitspakete"
 weight = 20
-description = "Planned work programme of LENA."
+description = "Geplantes Arbeitsprogramm von LENA."
 +++
 
-## Work programme
+## Arbeitsprogramm
 
-The project is planned in five phases:
+Das Projekt ist in fünf Phasen geplant:
 
-1. **Requirements analysis and co-creation** with street social workers, peers
-   and future users.
-2. **Software development**, including speech input and output, translation,
-   dialogue design and the knowledge base of local support services.
-3. **Terminal setup**, including hardware, network connection and installation
-   in public space.
-4. **Pilot operation**, including maintenance and content updates.
-5. **Evaluation and optimisation** of usefulness, usability and reliability.
+1. **Anforderungsanalyse und Co-Creation** mit Straßensozialarbeiter*innen,
+   Peer-Berater*innen und zukünftigen Nutzer*innen.
+2. **Softwareentwicklung**, einschließlich Sprachein- und -ausgabe, Übersetzung,
+   Dialoggestaltung und Wissensbasis lokaler Unterstützungsangebote.
+3. **Aufbau des Terminals**, einschließlich Hardware, Netzwerkanbindung und
+   Installation im öffentlichen Raum.
+4. **Pilotbetrieb**, einschließlich Wartung und Aktualisierung der Inhalte.
+5. **Evaluation und Optimierung** von Nutzen, Nutzbarkeit und Zuverlässigkeit.
 
-A detailed work programme will be published if the project starts.
+Ein detaillierter Arbeitsplan wird veröffentlicht, sobald das Projekt startet.

@@ -1,5 +1,5 @@
 +++
-title = "Home"
+title = "Start"
 sort_by = "weight"
 template = "index.html"
 page_template = "page.html"
@@ -9,23 +9,25 @@ page_template = "page.html"
 
 **Leipzig Empowerment & Navigation Assistant**
 
-LENA is a planned AI-based, multilingual and voice-based assistance system for
-low-threshold referral counselling in Leipzig street social work. It is
-intended to help people experiencing homelessness or housing insecurity find
-social and health support services in public space.
+LENA ist ein geplantes KI-basiertes, mehrsprachiges und sprachgestütztes
+Assistenzsystem für die niedrigschwellige Verweisberatung in der Leipziger
+Straßensozialarbeit. Es soll Menschen, die von Obdachlosigkeit oder
+Wohnungsunsicherheit betroffen sind, dabei helfen, soziale und gesundheitliche
+Unterstützungsangebote im öffentlichen Raum zu finden.
 
-> LENA is currently in preparation and has not yet started. The information on
-> this site describes the planned project and may change.
+> LENA befindet sich derzeit in Vorbereitung und ist noch nicht gestartet. Die
+> Informationen auf dieser Seite beschreiben das geplante Projekt und können
+> sich ändern.
 
-## Project at a glance
+## Projekt auf einen Blick
 
-- **Goal:** a multilingual, voice-based terminal that provides low-threshold
-  information about local support services and complements professional
-  counselling.
-- **Partners:** SZL Suchtzentrum Leipzig gGmbH, IMISE at Leipzig University,
-  proleonis UG and the Sozialamt der Stadt Leipzig.
-- **Theses:** a completed Master's thesis and an ongoing Bachelor's thesis are
-  connected to the project.
+- **Ziel:** ein mehrsprachiges, sprachgestütztes Terminal, das niedrigschwellige
+  Informationen über lokale Unterstützungsangebote bereitstellt und die
+  professionelle Beratung ergänzt.
+- **Partner:** SZL Suchtzentrum Leipzig gGmbH, IMISE der Universität Leipzig,
+  proleonis UG und das Sozialamt der Stadt Leipzig.
+- **Abschlussarbeiten:** Eine abgeschlossene Masterarbeit und eine laufende
+  Bachelorarbeit stehen im Zusammenhang mit dem Projekt.
 
-See the [project page](@/project.md) for more information, or the
-[theses page](@/theses.md) for the two theses.
+Weitere Informationen auf der [Projektseite](@/project.md) oder auf der
+[Seite zu den Abschlussarbeiten](@/theses.md).

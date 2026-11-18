@@ -1,13 +1,11 @@
 +++
-title = "Results"
+title = "Ergebnisse"
 weight = 30
-description = "Publications, software, datasets and other project results."
+description = "Publikationen, Software, Datensätze und weitere Projektergebnisse."
 +++
 
-## Results
+LENA ist noch nicht gestartet, daher gibt es bisher keine Projektergebnisse.
 
-LENA has not started yet, so there are no project results to report.
-
-The completed Master's thesis connected to the project is listed on the
-[theses page](@/theses.md). Software, datasets and reports will be added here
-if the project starts.
+Die abgeschlossene Masterarbeit mit Bezug zum Projekt ist auf der
+[Seite zu den Abschlussarbeiten](@/theses.md) aufgeführt. Software, Datensätze
+und Berichte werden hier ergänzt, sobald das Projekt startet.

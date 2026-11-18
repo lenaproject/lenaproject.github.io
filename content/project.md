@@ -1,47 +1,50 @@
 +++
-title = "Project"
+title = "Projekt"
 weight = 10
-description = "Overview of the planned LENA project."
+description = "Überblick über das geplante LENA-Projekt."
 +++
 
-## About LENA
+## Über LENA
 
-LENA (**Leipzig Empowerment & Navigation Assistant**) is a planned AI-based,
-multilingual and voice-based assistance system for low-threshold referral
-counselling in Leipzig street social work. The planned terminal is intended to
-provide people experiencing homelessness or housing insecurity with immediate
-information about local social and health support services and to make it
-easier to access the existing support system.
+LENA (**Leipzig Empowerment & Navigation Assistant**) ist ein geplantes
+KI-basiertes, mehrsprachiges und sprachgestütztes Assistenzsystem für die
+niedrigschwellige Verweisberatung in der Leipziger Straßensozialarbeit. Das
+geplante Terminal soll Menschen, die von Obdachlosigkeit oder
+Wohnungsunsicherheit betroffen sind, unmittelbar Informationen über lokale
+soziale und gesundheitliche Unterstützungsangebote bereitstellen und den Zugang
+zum bestehenden Hilfesystem erleichtern.
 
-The terminal is designed for use in public space. It is intended to complement
-professional counselling and street social work, not to replace them.
+Das Terminal ist für den Einsatz im öffentlichen Raum vorgesehen. Es soll die
+professionelle Beratung und die Straßensozialarbeit ergänzen, nicht ersetzen.
 
 ## Status
 
-LENA is currently in preparation and has not yet started. This site describes
-the planned project; details may change.
+LENA befindet sich derzeit in Vorbereitung und ist noch nicht gestartet. Diese
+Seite beschreibt das geplante Projekt; Änderungen sind möglich.
 
-## Planned consortium
+## Geplantes Konsortium
 
-- **SZL Suchtzentrum Leipzig gGmbH** — project coordination and street social
-  work
-- **IMISE, Leipzig University** — research and evaluation
-- **proleonis UG (haftungsbeschränkt)** — software development
-- **Sozialamt der Stadt Leipzig** — municipal administration and local support
-  structures
+- **SZL Suchtzentrum Leipzig gGmbH** — Projektkoordination und
+  Straßensozialarbeit
+- **IMISE, Universität Leipzig** — Forschung und Evaluation
+- **proleonis UG (haftungsbeschränkt)** — Softwareentwicklung
+- **Sozialamt der Stadt Leipzig** — kommunale Verwaltung und lokale
+  Unterstützungsstrukturen
 
-## Objectives
+## Ziele
 
-The planned project aims to:
+Das geplante Projekt soll:
 
-- develop a multilingual, voice-based AI terminal for low-threshold referral
-  counselling;
-- provide information about local support services, including food, shelter,
-  medical care, addiction support and contact with public authorities;
-- support street social workers and reduce language and access barriers;
-- evaluate the usefulness, usability and reliability of the terminal in
-  practice.
+- ein mehrsprachiges, sprachgestütztes KI-Terminal für die niedrigschwellige
+  Verweisberatung entwickeln;
+- Informationen über lokale Unterstützungsangebote bereitstellen, darunter
+  Lebensmittelversorgung, Unterkunft, medizinische Versorgung, Suchthilfe und
+  Kontakt zu Behörden;
+- die Straßensozialarbeit unterstützen und Sprach- sowie Zugangsbarrieren
+  abbauen;
+- den Nutzen, die Nutzbarkeit und die Zuverlässigkeit des Terminals in der
+  Praxis evaluieren.
 
-## Funding
+## Förderung
 
-Funding information will be added if the project is approved.
+Informationen zur Förderung werden ergänzt, sobald das Projekt bewilligt ist.

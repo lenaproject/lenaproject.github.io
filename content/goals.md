@@ -1,28 +1,32 @@
 +++
-title = "Goals"
+title = "Ziele"
 weight = 15
-description = "Planned goals and research questions of LENA."
+description = "Geplante Ziele und Forschungsfragen von LENA."
 +++
 
-## Planned goals
+## Geplante Ziele
 
-LENA aims to make information about Leipzig's support system easier to access
-for people who are often reached only with difficulty by existing services. The
-planned terminal combines voice interaction, multilingual output and a
-structured knowledge base of local support services.
+LENA soll den Zugang zu Informationen über das Leipziger Hilfesystem für
+Menschen erleichtern, die von bestehenden Angeboten oft nur schwer erreicht
+werden. Das geplante Terminal verbindet sprachliche Interaktion, mehrsprachige
+Ausgabe und eine strukturierte Wissensbasis lokaler Unterstützungsangebote.
 
-The project is intended to:
+Das Projekt soll:
 
-- provide low-threshold, round-the-clock information in public space;
-- reduce language, literacy and digital-access barriers;
-- support referral into existing social and health services;
-- relieve pressure on street social work while complementing human counselling;
-- evaluate whether the approach is useful, usable and reliable in practice.
+- niedrigschwellige Informationen rund um die Uhr im öffentlichen Raum
+  bereitstellen;
+- Sprach-, Lese- und digitale Zugangsbarrieren abbauen;
+- die Vermittlung in bestehende soziale und gesundheitliche Angebote
+  unterstützen;
+- die Straßensozialarbeit entlasten und die menschliche Beratung ergänzen;
+- prüfen, ob der Ansatz in der Praxis nützlich, nutzbar und zuverlässig ist.
 
-## Guiding questions
+## Leitfragen
 
-- How can voice-based AI interaction lower barriers to information and
-  counselling?
-- How can a public terminal be integrated into existing street social work?
-- How can data protection and low-threshold use be combined?
-- What does responsible use of AI in social work require?
+- Wie kann sprachgestützte KI-Interaktion Barrieren beim Zugang zu Informationen
+  und Beratung senken?
+- Wie lässt sich ein öffentliches Terminal in die bestehende Straßensozialarbeit
+  integrieren?
+- Wie lassen sich Datenschutz und niedrigschwellige Nutzung miteinander
+  vereinbaren?
+- Was braucht ein verantwortungsvoller Einsatz von KI in der Sozialen Arbeit?

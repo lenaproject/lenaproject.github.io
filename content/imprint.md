@@ -1,15 +1,16 @@
 +++
-title = "Imprint"
+title = "Impressum"
 weight = 99
-description = "Legal imprint and privacy information."
+description = "Rechtliches Impressum und Datenschutzhinweise."
 +++
 
-## Imprint
+## Rechtliche Angaben
 
-> This is a draft. The legally required imprint will be added before the site
-> is published.
+> Dies ist ein Entwurf. Das rechtlich erforderliche Impressum wird vor der
+> Veröffentlichung der Website ergänzt.
 
-## Privacy
+## Datenschutz
 
-This site does not use tracking, cookies or client-side analytics. Google
-Fonts are disabled to avoid third-party requests.
+Diese Website verwendet kein Tracking, keine Cookies und keine clientseitige
+Webanalyse. Google Fonts sind deaktiviert, um Anfragen an Drittanbieter zu
+vermeiden.

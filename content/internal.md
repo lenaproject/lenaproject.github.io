@@ -1,13 +1,13 @@
 +++
-title = "Internal"
+title = "Intern"
 weight = 35
 hidden = true
-description = "Internal notes, hidden from the navigation."
+description = "Interne Notizen, aus der Navigation ausgeblendet."
 +++
 
-## Internal notes
+## Interne Notizen
 
-This page is built but hidden from the sidebar navigation.
+Diese Seite wird erstellt, ist aber in der Seitenleiste ausgeblendet.
 
-Do not put secrets here: a static site is still public even if a page is not
-linked.
+Keine Geheimnisse hier ablegen: Eine statische Website bleibt öffentlich, auch
+wenn eine Seite nicht verlinkt ist.

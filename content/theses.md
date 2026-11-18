@@ -1,14 +1,12 @@
 +++
-title = "Theses"
+title = "Abschlussarbeiten"
 weight = 33
-description = "Theses connected to the LENA project."
+description = "Abschlussarbeiten mit Bezug zum LENA-Projekt."
 +++
 
-## Theses
+Zwei Abschlussarbeiten stehen im Zusammenhang mit LENA.
 
-Two theses are connected to LENA.
-
-### Completed
+### Abgeschlossen
 
 **Hannah Hoffner**  
 *Konzeption und prototypische Umsetzung eines KI-gestützten
@@ -16,11 +14,11 @@ Informationsassistenten für niedrigschwellige Verweisberatung in der Leipziger
 Straßensozialarbeit*  
 Masterarbeit, 2026
 
-### In progress
+### In Bearbeitung
 
 **Swen Schipp**  
 *Anforderungen und Hardwarekonzept für ein KI-basiertes Informationsterminal
 zur Unterstützung obdachloser Menschen*  
-Bachelorarbeit, in progress
+Bachelorarbeit, in Bearbeitung
 
-Further details of both theses will be added when they are available.
+Weitere Details zu beiden Arbeiten werden ergänzt, sobald sie vorliegen.

@@ -1,7 +1,7 @@
 base_url = "https://lenaproject.github.io"
 title = "LENA"
-description = "LENA (Leipzig Empowerment & Navigation Assistant) is a planned AI-based multilingual assistance system for low-threshold referral counselling in Leipzig street social work."
-default_language = "en"
+description = "LENA (Leipzig Empowerment & Navigation Assistant) ist ein geplantes KI-basiertes, mehrsprachiges Assistenzsystem für die niedrigschwellige Verweisberatung in der Leipziger Straßensozialarbeit."
+default_language = "de"
 theme = "researchproject"
 
 [extra]
@@ -10,4 +10,12 @@ theme_color = "#2f6f6b"
 logo = "logo.svg"
 favicon = "logo.svg"
 fonts = false
-github = "https://github.com/lenaproject/lena"
+github = "https://github.com/lenaproject/lenaproject.github.io"
+home_label = "Start"
+home_aria_label = "Startseite"
+not_found_title = "Seite nicht gefunden"
+not_found_text = "Die angeforderte Seite konnte nicht gefunden werden."
+back_home_label = "Zurück zur Startseite"
+publications_download_label = "BibTeX herunterladen"
+no_publications_label = "Es wurden noch keine Publikationen hinterlegt."
+undated_label = "Ohne Jahr"
