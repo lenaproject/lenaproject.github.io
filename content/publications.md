@@ -2,8 +2,8 @@
 title = "Publications"
 weight = 31
 template = "publications.html"
-description = "Publications from the LENA research project."
+description = "Publications from the LENA project."
 +++
 
-Publications from LENA will be listed on this page. The list is generated from
-`static/publications.bib`, so new entries can be added as papers appear.
+LENA has not started yet, so there are no publications to list. Publications
+will be added here as they appear.

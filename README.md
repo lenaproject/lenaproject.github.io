@@ -1,12 +1,13 @@
 # LENA website
 
-Website of the LENA research project, built with
+Website of **LENA (Leipzig Empowerment & Navigation Assistant)**, built with
 [Zola](https://www.getzola.org/) and the
 [researchproject](https://github.com/KonradHoeffner/zola-theme-researchproject)
 theme.
 
-This is a first draft. The page structure and theme are in place; project
-content, contact details and the legal imprint still need to be filled in.
+LENA is a planned project and has not started yet. This is a first draft: the
+page structure and theme are in place, while project details, contact details
+and the legal imprint still need to be finalised.
 
 ## Local development
 

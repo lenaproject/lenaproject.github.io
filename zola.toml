@@ -1,11 +1,11 @@
 base_url = "https://lenaproject.github.io"
 title = "LENA"
-description = "Website of the LENA research project."
+description = "LENA (Leipzig Empowerment & Navigation Assistant) is a planned AI-based multilingual assistance system for low-threshold referral counselling in Leipzig street social work."
 default_language = "en"
 theme = "researchproject"
 
 [extra]
-tagline = "Research project"
+tagline = "Leipzig Empowerment & Navigation Assistant"
 theme_color = "#2f6f6b"
 logo = "logo.svg"
 favicon = "logo.svg"

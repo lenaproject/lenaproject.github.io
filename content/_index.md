@@ -7,15 +7,25 @@ page_template = "page.html"
 
 # LENA
 
-Welcome to the website of the LENA research project.
+**Leipzig Empowerment & Navigation Assistant**
 
-LENA is a new research project. This site is currently being prepared and will
-be expanded with the project description, objectives, work programme, team,
-publications and results as the project gets underway.
+LENA is a planned AI-based, multilingual and voice-based assistance system for
+low-threshold referral counselling in Leipzig street social work. It is
+intended to help people experiencing homelessness or housing insecurity find
+social and health support services in public space.
 
-> This website is under construction. Content will be added as the project
-> starts.
+> LENA is currently in preparation and has not yet started. The information on
+> this site describes the planned project and may change.
 
-## Contact
+## Project at a glance
 
-For enquiries, please see the [contact page](@/contact.md).
+- **Goal:** a multilingual, voice-based terminal that provides low-threshold
+  information about local support services and complements professional
+  counselling.
+- **Partners:** SZL Suchtzentrum Leipzig gGmbH, IMISE at Leipzig University,
+  proleonis UG and the Sozialamt der Stadt Leipzig.
+- **Theses:** a completed Master's thesis and an ongoing Bachelor's thesis are
+  connected to the project.
+
+See the [project page](@/project.md) for more information, or the
+[theses page](@/theses.md) for the two theses.

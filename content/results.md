@@ -6,12 +6,8 @@ description = "Publications, software, datasets and other project results."
 
 ## Results
 
-Results from LENA will be published here, including:
+LENA has not started yet, so there are no project results to report.
 
-- software and tools
-- ontologies and vocabularies
-- datasets
-- reports and deliverables
-
-Publications are listed separately on the
-[publications](@/publications.md) page.
+The completed Master's thesis connected to the project is listed on the
+[theses page](@/theses.md). Software, datasets and reports will be added here
+if the project starts.

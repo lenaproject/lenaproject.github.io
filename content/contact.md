@@ -1,12 +1,18 @@
 +++
 title = "Contact"
 weight = 80
-description = "Contact details for the LENA research project."
+description = "Contact details and project partners."
 +++
 
 ## Contact
 
-**LENA research project**
+LENA is a joint project. The planned consortium consists of:
 
-Contact details and team information will be added here before the site is
-published.
+- **SZL Suchtzentrum Leipzig gGmbH** — project coordination and street social
+  work
+- **IMISE, Leipzig University** — research and evaluation
+- **proleonis UG (haftungsbeschränkt)** — software development
+- **Sozialamt der Stadt Leipzig** — municipal administration and local support
+  structures
+
+Contact details will be added before the project starts.
