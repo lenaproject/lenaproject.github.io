@@ -1,4 +1,4 @@
-base_url = "https://lenaproject.github.io/lena"
+base_url = "https://lenaproject.github.io"
 title = "LENA"
 description = "Website of the LENA research project."
 default_language = "en"

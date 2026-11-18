@@ -38,6 +38,8 @@ The workflow in `.github/workflows/build.yml` builds the site and deploys it to
 GitHub Pages. Set **Pages → Source** to **GitHub Actions** in the repository
 settings.
 
-The current URL is <https://lenaproject.github.io/lena/>. A custom domain can
-be added later by setting `base_url` in `zola.toml` and adding a `static/CNAME`
-file.
+The site is served at <https://lenaproject.github.io/>. This requires the
+repository to be named `lenaproject.github.io`, because GitHub only serves an
+organisation Pages site at the domain root from that repository name. A custom
+domain can be added later by setting `base_url` in `zola.toml` and adding a
+`static/CNAME` file.
