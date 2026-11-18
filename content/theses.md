@@ -19,7 +19,8 @@ Masterarbeit, 2026
 ### In progress
 
 **Swen Schipp**  
+*Anforderungen und Hardwarekonzept für ein KI-basiertes Informationsterminal
+zur Unterstützung obdachloser Menschen*  
 Bachelorarbeit, in progress
 
-The title and further details of the Bachelor's thesis will be added when they
-are available.
+Further details of both theses will be added when they are available.
