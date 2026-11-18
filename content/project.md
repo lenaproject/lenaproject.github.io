@@ -30,8 +30,6 @@ Seite beschreibt das geplante Projekt; Änderungen sind möglich.
   Straßensozialarbeit
 - **IMISE, Universität Leipzig** — Forschung und Evaluation
 - **proleonis UG (haftungsbeschränkt)** — Softwareentwicklung
-- **Sozialamt der Stadt Leipzig** — kommunale Verwaltung und lokale
-  Unterstützungsstrukturen
 
 ## Ziele
 

@@ -24,8 +24,8 @@ Unterstützungsangebote im öffentlichen Raum zu finden.
 - **Ziel:** ein mehrsprachiges, sprachgestütztes Terminal, das niedrigschwellige
   Informationen über lokale Unterstützungsangebote bereitstellt und die
   professionelle Beratung ergänzt.
-- **Partner:** SZL Suchtzentrum Leipzig gGmbH, IMISE der Universität Leipzig,
-  proleonis UG und das Sozialamt der Stadt Leipzig.
+- **Partner:** SZL Suchtzentrum Leipzig gGmbH, IMISE der Universität Leipzig
+  und proleonis UG.
 - **Abschlussarbeiten:** Eine abgeschlossene Masterarbeit und eine laufende
   Bachelorarbeit stehen im Zusammenhang mit dem Projekt.
 

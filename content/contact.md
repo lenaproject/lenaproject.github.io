@@ -13,21 +13,15 @@ kann sich nach dem Projektstart ändern.
 
 <div class="teamGrid">
 <div class="team-card">
-<h3><a href="https://www.suchtzentrum.de/unsere-angebote/streetwork/safe">Tino Neufert</a></h3>
+<h3><a href="https://www.suchtzentrum.de/">Holger Herzog</a></h3>
 <p><strong>Projektleitung</strong><br>
-SZL Suchtzentrum Leipzig gGmbH<br>
-Straßensozialarbeit</p>
+SZL Suchtzentrum Leipzig gGmbH</p>
 </div>
 </div>
 
 ## Projektteam
 
 <div class="teamGrid">
-<div class="team-card">
-<h3><a href="https://www.imise.uni-leipzig.de/">Dr. Konrad Höffner</a></h3>
-<p><strong>Wissenschaftlich-technisches Projektmanagement</strong><br>
-IMISE, Universität Leipzig</p>
-</div>
 <div class="team-card">
 <h3><a href="https://www.imise.uni-leipzig.de/">Prof. Dr. Alfred Winter</a></h3>
 <p><strong>Wissenschaftliche Begleitung</strong><br>
@@ -39,8 +33,23 @@ IMISE, Universität Leipzig</p>
 IMISE, Universität Leipzig</p>
 </div>
 <div class="team-card">
+<h3><a href="https://www.imise.uni-leipzig.de/">Dr. Konrad Höffner</a></h3>
+<p><strong>Wissenschaftlich-technisches Projektmanagement</strong><br>
+IMISE, Universität Leipzig</p>
+</div>
+<div class="team-card">
+<h3><a href="https://www.proleonis.de/">Hannah Hoffner</a></h3>
+<p><strong>Softwareentwicklung</strong><br>
+proleonis UG (haftungsbeschränkt)</p>
+</div>
+<div class="team-card">
 <h3>Swen Schipp</h3>
 <p><strong>Technische Mitarbeit</strong><br>
+SZL Suchtzentrum Leipzig gGmbH</p>
+</div>
+<div class="team-card">
+<h3><a href="https://www.suchtzentrum.de/unsere-angebote/streetwork/safe">Tino Neufert</a></h3>
+<p><strong>Straßensozialarbeit</strong><br>
 SZL Suchtzentrum Leipzig gGmbH</p>
 </div>
 </div>
@@ -59,10 +68,6 @@ SZL Suchtzentrum Leipzig gGmbH</p>
 <div class="team-card">
 <h3><a href="https://www.proleonis.de/">proleonis UG (haftungsbeschränkt)</a></h3>
 <p>Softwareentwicklung</p>
-</div>
-<div class="team-card">
-<h3><a href="https://www.leipzig.de/sozialamt">Sozialamt der Stadt Leipzig</a></h3>
-<p>Kommunale Verwaltung und lokale Unterstützungsstrukturen</p>
 </div>
 </div>
 
