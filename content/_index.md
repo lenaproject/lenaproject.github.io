@@ -26,6 +26,8 @@ Unterstützungsangebote im öffentlichen Raum zu finden.
   professionelle Beratung ergänzt.
 - **Partner:** SZL Suchtzentrum Leipzig gGmbH, IMISE der Universität Leipzig
   und proleonis UG.
+- **Förderung:** geplantes Modellvorhaben im Rahmen der ESF Plus-Richtlinie des
+  SMS für soziale Innovationen; Förderung beantragt.
 - **Abschlussarbeiten:** Eine abgeschlossene Masterarbeit und eine laufende
   Bachelorarbeit stehen im Zusammenhang mit dem Projekt.
 

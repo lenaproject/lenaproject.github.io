@@ -47,4 +47,13 @@ Das geplante Projekt soll:
 
 ## Förderung
 
-Informationen zur Förderung werden ergänzt, sobald das Projekt bewilligt ist.
+LENA ist als Modellvorhaben im Rahmen der ESF Plus-Richtlinie des Sächsischen
+Staatsministeriums für Soziales und Gesellschaftlichen Zusammenhalt (SMS) zur
+Förderung von Modellvorhaben für soziale Innovationen vorgesehen. Die Förderung
+ist beantragt; eine Bewilligung steht noch aus.
+
+Das Förderprogramm wird aus Mitteln des Europäischen Sozialfonds Plus (ESF Plus)
+kofinanziert.
+
+Weitere Informationen zum Programm:
+[ESF Plus-Richtlinie des SMS – Förderung von Modellvorhaben für soziale Innovationen](https://www.sab.sachsen.de/esf-plus-richtlinie-des-sms-f%C3%B6rderung-von-modellvorhaben-f%C3%BCr-soziale-innovationen)
