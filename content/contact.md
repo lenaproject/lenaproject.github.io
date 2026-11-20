@@ -16,7 +16,7 @@ Straßensozialarbeit kommen hinzu.
 <div class="teamGrid">
 <div class="team-card">
 <h3><a href="https://www.suchtzentrum.de/">Holger Herzog</a></h3>
-<p><strong>Projektleitung</strong><br>
+<p><strong>Projektleitung und Verbundkoordination</strong><br>
 SZL Suchtzentrum Leipzig gGmbH</p>
 </div>
 </div>
@@ -71,11 +71,11 @@ SZL Suchtzentrum Leipzig gGmbH</p>
 <div class="teamGrid">
 <div class="team-card">
 <h3><a href="https://www.suchtzentrum.de/">SZL Suchtzentrum Leipzig gGmbH</a></h3>
-<p>Projektkoordination und Straßensozialarbeit</p>
+<p>Verbundkoordination und Straßensozialarbeit</p>
 </div>
 <div class="team-card">
-<h3><a href="https://www.imise.uni-leipzig.de/">IMISE, Universität Leipzig</a></h3>
-<p>Forschung und Evaluation</p>
+<h3><a href="https://www.imise.uni-leipzig.de/">Universität Leipzig (IMISE)</a></h3>
+<p>Wissenschaftliche Begleitung und Evaluation</p>
 </div>
 <div class="team-card">
 <h3><a href="https://www.proleonis.de/">proleonis UG (haftungsbeschränkt)</a></h3>

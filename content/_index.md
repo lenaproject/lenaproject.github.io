@@ -24,11 +24,11 @@ Unterstützungsangebote im öffentlichen Raum zu finden.
 - **Ziel:** ein mehrsprachiges, sprachgestütztes Terminal, das niedrigschwellige
   Informationen über lokale Unterstützungsangebote bereitstellt und die
   professionelle Beratung ergänzt.
-- **Partner:** SZL Suchtzentrum Leipzig gGmbH, IMISE der Universität Leipzig
-  und proleonis UG.
+- **Standort:** geplante Aufstellung am Hauptbahnhof Leipzig.
+- **Partner:** SZL Suchtzentrum Leipzig gGmbH (Verbundkoordination), Universität
+  Leipzig (IMISE) und proleonis UG.
+- **Laufzeit:** 24 Monate, geplant vom 01.01.2027 bis 31.12.2028.
 - **Förderung:** geplantes Modellvorhaben im Rahmen der ESF Plus-Richtlinie des
   SMS für soziale Innovationen; Förderung beantragt.
-- **Vorarbeiten:** eine erste konzeptionelle und theoretische Basis aus
-  studentischen Abschlussarbeiten.
 
 Weitere Informationen auf der [Projektseite](@/project.md).
