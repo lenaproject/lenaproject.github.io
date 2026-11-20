@@ -28,8 +28,7 @@ Unterstützungsangebote im öffentlichen Raum zu finden.
   und proleonis UG.
 - **Förderung:** geplantes Modellvorhaben im Rahmen der ESF Plus-Richtlinie des
   SMS für soziale Innovationen; Förderung beantragt.
-- **Abschlussarbeiten:** Eine abgeschlossene Masterarbeit und eine laufende
-  Bachelorarbeit stehen im Zusammenhang mit dem Projekt.
+- **Vorarbeiten:** eine erste konzeptionelle und theoretische Basis aus
+  studentischen Abschlussarbeiten.
 
-Weitere Informationen auf der [Projektseite](@/project.md) oder auf der
-[Seite zu den Abschlussarbeiten](@/theses.md).
+Weitere Informationen auf der [Projektseite](@/project.md).

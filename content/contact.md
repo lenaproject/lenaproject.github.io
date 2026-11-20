@@ -7,7 +7,9 @@ description = "Kontaktdaten und Projektpartner von LENA."
 +++
 
 LENA ist ein gemeinsames Projekt. Die folgende Zusammensetzung ist geplant und
-kann sich nach dem Projektstart ändern.
+kann sich nach dem Projektstart ändern. Das Team wird derzeit zusammengestellt;
+die Liste ist daher noch nicht vollständig, weitere Beteiligte aus der
+Straßensozialarbeit kommen hinzu.
 
 ## Projektleitung
 
@@ -20,6 +22,12 @@ SZL Suchtzentrum Leipzig gGmbH</p>
 </div>
 
 ## Projektteam
+
+{#
+  TODO: Die Teamliste ist absichtlich unvollständig. Mindestens zwei Kolleg*innen
+  aus der Straßensozialarbeit des SZL sind sicher beteiligt und müssen ergänzt
+  werden, sobald die Zusammensetzung geklärt ist.
+#}
 
 <div class="teamGrid">
 <div class="team-card">
@@ -42,11 +50,15 @@ IMISE, Universität Leipzig</p>
 <p><strong>Softwareentwicklung</strong><br>
 proleonis UG (haftungsbeschränkt)</p>
 </div>
-<div class="team-card">
+{#
+  Bewusst vorerst nicht öffentlich: Ob Swen Schipp beim SZL angestellt wird, ist
+  noch nicht sicher. Karte erst wieder aktivieren, wenn das geklärt ist.
+#}
+{# <div class="team-card">
 <h3>Swen Schipp</h3>
 <p><strong>Technische Mitarbeit</strong><br>
 SZL Suchtzentrum Leipzig gGmbH</p>
-</div>
+</div> #}
 <div class="team-card">
 <h3><a href="https://www.suchtzentrum.de/unsere-angebote/streetwork/safe">Tino Neufert</a></h3>
 <p><strong>Straßensozialarbeit</strong><br>

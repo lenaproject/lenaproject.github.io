@@ -8,6 +8,6 @@ description = "Publikationen, Software, Datensätze und weitere Projektergebniss
 
 LENA ist noch nicht gestartet, daher gibt es bisher keine Projektergebnisse.
 
-Die abgeschlossene Masterarbeit mit Bezug zum Projekt ist auf der
-[Seite zu den Abschlussarbeiten](@/theses.md) aufgeführt. Software, Datensätze
-und Berichte werden hier ergänzt, sobald das Projekt startet.
+Erste konzeptionelle und theoretische Grundlagen stammen aus studentischen
+Abschlussarbeiten im Umfeld des Projekts. Software, Datensätze und Berichte
+werden hier ergänzt, sobald das Projekt startet.

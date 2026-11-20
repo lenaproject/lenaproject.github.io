@@ -22,7 +22,9 @@ professionelle Beratung und die Straßensozialarbeit ergänzen, nicht ersetzen.
 ## Status
 
 LENA befindet sich derzeit in Vorbereitung und ist noch nicht gestartet. Diese
-Seite beschreibt das geplante Projekt; Änderungen sind möglich.
+Seite beschreibt das geplante Projekt; Änderungen sind möglich. Eine erste
+konzeptionelle und theoretische Basis stammt aus studentischen
+Abschlussarbeiten im Umfeld des Projekts.
 
 ## Geplantes Konsortium
 
